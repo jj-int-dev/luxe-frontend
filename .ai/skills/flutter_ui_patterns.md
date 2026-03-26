@@ -1,0 +1,3 @@
+- Composition over large widgets
+- Use MediaQuery for responsiveness
+- Lazy load images
