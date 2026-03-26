@@ -2,14 +2,20 @@
 2. Builder → implement UI
 3. Reviewer → improve UX
 4. Refactor → optimize
-5. Prepare Commit (DO NOT EXECUTE):
+5. Visual Review:
+
+- Ensure UI is responsive
+- Check layout consistency
+- Verify design looks premium and clean
+
+6. Prepare Commit (DO NOT EXECUTE):
 
 - Show git status
 - List files changed
 - Propose commit message using conventional commits:
   "feat: <feature description>"
 
-6. Await Human Approval:
+7. Await Human Approval:
 
 - Do NOT commit or push
 - Wait for user confirmation

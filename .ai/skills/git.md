@@ -28,6 +28,16 @@ Format:
 Example:
 feat: implement interactions endpoint with validation
 
+## Additional Commit Types (Frontend)
+
+- ui: UI changes (layout, styling)
+- ux: UX improvements (interaction, flow)
+- perf: performance improvements
+
+Examples:
+ui: implement item card layout
+ux: improve swipe animation responsiveness
+
 ## Push Rules
 
 - Only push after user approval
